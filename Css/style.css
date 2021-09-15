@@ -1,0 +1,26 @@
+hr
+{
+width:70%;
+}
+h1{
+  text-align: center;
+}
+main{
+margin-top: 90px;
+      margin-left: 100px;
+	}
+   div{
+   float: left;
+   padding: 10px;
+   }
+   img{
+   	width: 20vw;
+   	height: 30vh;
+   	border-radius: 10px;
+   	opacity: 0.8;
+   }
+   img:hover{
+    transform: scale(1.5, 1.5);
+    opacity: 1.0;
+   }
+		 
